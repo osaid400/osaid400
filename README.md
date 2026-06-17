@@ -1,4 +1,4 @@
-# Hi, I'm Osaid 👋
+# Hi, I'm M. Abdullah Farooq 👋
 
 🎓 BS Artificial Inntelligence Student (SMI University)
 💻 Interested in Artificial Intelligence, Data Science, and Technology
