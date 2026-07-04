@@ -35,10 +35,10 @@ Python • Git • GitHub
 
 ## Goals
 
-- Build a strong Python project portfolio
-- Develop solid analytical and problem-solving skills
-- Grow toward AI and Data Science specialization
-- Pursue a fully funded MS abroad
+- Build a strong Python project portfolio.
+- Develop solid analytical and problem-solving skills.
+- Grow toward AI and Data Science specialization.
+- Pursue a fully funded MS abroad.
 
 ---
 
