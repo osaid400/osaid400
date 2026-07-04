@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Abdullah Farooq 
 
-BS Artificial Intelligence Student — Sindh Madressatul Islam University (SMIU), Karachi
+BS Computer Science Student — Sindh Madressatul Islam University (SMIU), Karachi
 
 Python learner focused on building real projects, strengthening problem-solving skills, and growing toward AI and Data Science.
 
