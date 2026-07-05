@@ -30,7 +30,7 @@ Python • Git • GitHub
 | [ATM Management System](https://github.com/osaid400/ATM-Management-System) | PIN-based ATM simulation with session handling and input validation |
 | [Library Management System](https://github.com/osaid400/Library_Management_System) | Console-based library system with borrow, return, and book tracking |
 | [Portfolio Website](https://github.com/osaid400/Muhammad-Abdullah-Farooq-Portfolio) | Personal portfolio built with HTML, CSS, and JavaScript |
-| [Calculator using Functions]([https://github.com/osaid400/Calculator-Using-Functions.git])) | CA beginner Python console calculator built with functions and proper error handling.|
+| [Calculator using Functions](https://github.com/osaid400/Calculator-Using-Functions.git) | A beginner Python console calculator built with functions and proper error handling.|
 
 ---
 
