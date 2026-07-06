@@ -31,7 +31,8 @@ Python • Git • GitHub
 | [Library Management System](https://github.com/osaid400/Library_Management_System) | Console-based library system with borrow, return, and book tracking |
 | [Portfolio Website](https://github.com/osaid400/Muhammad-Abdullah-Farooq-Portfolio) | Personal portfolio built with HTML, CSS, and JavaScript |
 | [Calculator using Functions](https://github.com/osaid400/Calculator-Using-Functions.git) | A beginner Python console calculator built with functions and proper error handling.|
-| [Employees Management System](https://github.com/osaid400/Employees_Managment_System.git) | A simple Employees Management System built with python to practice CRUB operations, functions, and exception handling. |
+| [Employees Management System](https://github.com/osaid400/Employees_Managment_System.git) | A simple Employees Management System built with python to practice CRUD operations, functions, and exception handling. |
+| [Inventory Management System](https://github.com/osaid400/Inventory-Management-System.git) | A Python Inventory Management System using CRUD operations, input vaalidation, and exception handling. |
 
 ---
 
