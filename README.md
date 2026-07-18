@@ -2,8 +2,7 @@
 
 BS Computer Sciecne Student — Sindh Madressatul Islam University (SMIU), Karachi
 
-1st Semester — Python learner focused on building real projects, strengthening problem-solving skills, and growing toward AI and Data Science.
-
+First-semester student and aspiring data professional, actively building Python applications to master core logic, algorithmic problem-solving, and foundation-level data science workflows.
 ---
 
 ## Currently Working On
