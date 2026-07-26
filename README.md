@@ -80,9 +80,9 @@ I enjoy building practical projects that strengthen my programming fundamentals 
 
 # 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osaid400\&show_icons=true\&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osaid400&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osaid400\&layout=compact\&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osaid400&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=osaid400\&theme=github-dark)
 
@@ -92,17 +92,7 @@ I enjoy building practical projects that strengthen my programming fundamentals 
 
 📧 **Email:** [osaid.abdullah2007@gmail.com](mailto:osaid.abdullah2007@gmail.com)
 
-💼 **LinkedIn:** https://linkedin.com/in/muhammad-abdullah-farooq-684ab1350
-
----
-
-# 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osaid400/osaid400/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osaid400/osaid400/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/osaid400/osaid400/output/github-contribution-grid-snake.svg">
-</picture>
+💼 **LinkedIn:** [Muhammad Abdullah Farooq] (https://linkedin.com/in/muhammad-abdullah-farooq-684ab1350)
 
 ---
 
