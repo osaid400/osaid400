@@ -37,7 +37,7 @@ Python • Git • GitHub
 | [Library Management System](https://github.com/osaid400/Library_Management_System) | Console-based library system with borrow, return, and book tracking |
 | [ATM Management System](https://github.com/osaid400/ATM-Management-System) | PIN-based ATM simulation with session handling and input validation |
 | [Bank Management System](https://github.com/osaid400/Bank-Management-System-using-python-) | Console-based banking system with account creation, deposit, and withdrawal |
-| [Student Management System](https://github.com/osaid400/Students-Management-System-Beginner-Level-) | Console-based student records management built in Python |
+| [Student Management System](https://github.com/osaid400/Students-Management-System-Beginner-Level-) | A Python console-based School Management System built with OOP, JSON persistence, CRUD operations, input validation, and clean software architecture.|
 | [Portfolio Website](https://github.com/osaid400/Muhammad-Abdullah-Farooq-Portfolio) | Personal portfolio built with HTML, CSS, and JavaScript |
 
 ---
