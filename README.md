@@ -29,7 +29,7 @@ Python • Git • GitHub
 | [Restaurant Order System](https://github.com/osaid400/Restaurant-Order-System) | Console-based restaurant ordering system with menu browsing, order placement, bill generation, and stock management |
 | [Shopping Cart System](https://github.com/osaid400/Shopping-Cart-System) | Console-based shopping cart system with product catalog, cart management, and checkout |
 | [Quiz Application](https://github.com/osaid400/Quiz-Application-Python) | Console-based quiz application with difficulty levels, score tracking, and result summary |
-| [Contact Book System](https://github.com/osaid400/Contact-Book-System) | Console-based Contact Book System with CRUD operations, input validation, exception handling, and search by ID or name |
+| [Contact Book System](https://github.com/osaid400/Contact-Book-System) | A console-based Contact Book System built with OOP, JSON persistence, CRUD operations, input validation, and clean software design principles. |
 | [Expense Tracker System](https://github.com/osaid400/Expense-Tracker-System) | Console-based Expense Tracker with CRUD operations, expense analysis, and input validation |
 | [Inventory Management System](https://github.com/osaid400/Inventory-Management-System) | Python Inventory Management System using CRUD operations, input validation, and exception handling |
 | [Employee Management System](https://github.com/osaid400/Employees_Managment_System) | Console-based Employee Management System practicing CRUD operations, functions, and exception handling |
