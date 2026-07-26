@@ -80,10 +80,6 @@ I enjoy building practical projects that strengthen my programming fundamentals 
 
 # 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osaid400&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osaid400&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=osaid400\&theme=github-dark)
 
 ---
