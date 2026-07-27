@@ -57,8 +57,6 @@ I enjoy building practical projects that strengthen my programming fundamentals 
 | [Inventory Management System](https://github.com/osaid400/Inventory-Management-System) | Inventory and stock management with CRUD functionality |
 | [Expense Tracker System](https://github.com/osaid400/Expense-Tracker-System) | Personal expense tracking with expense analysis and persistent storage |
 | [Calculator Using OOP](https://github.com/osaid400/Calculator-Using-Functions) | Object-Oriented calculator featuring JSON-based calculation history |
-| [Student Grade Management System](https://github.com/osaid400/Student-Grade-Management-System) | Grade management system for maintaining student academic records |
-| [Python Practice Journey](https://github.com/osaid400/Python-Practice-Journey) | Collection of Python exercises, practice projects, and learning experiments |
 | [Portfolio Website](https://github.com/osaid400/Muhammad-Abdullah-Farooq-Portfolio) | Personal portfolio website built using HTML, CSS, and JavaScript |
 
 ---
