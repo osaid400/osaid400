@@ -1,8 +1,8 @@
 # Hi there, I'm Muhammad Abdullah Farooq
 
-### BS Artificial Intelligence Student | Sindh Madressatul Islam University (SMIU), Karachi
+### BS Computer Science Student | Sindh Madressatul Islam University (SMIU), Karachi
 
-I'm an Artificial Intelligence undergraduate student passionate about Python, Software Development, Artificial Intelligence, and Data Science.
+I'm an Computer Science undergraduate student passionate about Python, Software Development, Artificial Intelligence, and Data Science.
 
 I enjoy building practical projects that strengthen my programming fundamentals and problem-solving skills. My goal is to continuously improve by creating real-world applications while learning modern software development practices.
 
