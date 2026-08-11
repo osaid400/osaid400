@@ -10,7 +10,6 @@ I enjoy building practical projects that strengthen my programming fundamentals 
 
 ## Currently Working On
 
-- Refactoring Python projects using Object-Oriented Programming (OOP)
 - Building clean and scalable console applications
 - Learning SQLite and Database Design
 - Preparing for API development and Flask
@@ -52,7 +51,7 @@ I enjoy building practical projects that strengthen my programming fundamentals 
 | [Shopping Cart System](https://github.com/osaid400/Shopping-Cart-System) | Product catalog, shopping cart management, and checkout simulation |
 | [Quiz Application](https://github.com/osaid400/Quiz-Application-Python) | Quiz application with multiple difficulty levels, score tracking, and result summary |
 | [Contact Book System](https://github.com/osaid400/Contact-Book-System) | Contact management system built with OOP, JSON persistence, CRUD operations, and clean architecture |
-| [Student Management System](https://github.com/osaid400/Students-Management-System) | Student management system using OOP, JSON persistence, CRUD operations, and modular design |
+| [School Management System](https://github.com/osaid400/Students-Management-System) | Student management system using OOP, JSON persistence, CRUD operations, and modular design |
 | [Bank Management System](https://github.com/osaid400/Bank-Management-System) | Banking application supporting account management, deposits, withdrawals, and validation |
 | [ATM Management System](https://github.com/osaid400/ATM-Management-System) | PIN-based ATM simulation with secure transactions and session handling |
 | [Library Management System](https://github.com/osaid400/Library-Management-System) | Library management system for borrowing, returning, and tracking books |
