@@ -55,7 +55,7 @@ I enjoy building practical projects that strengthen my programming fundamentals 
 | [Bank Management System](https://github.com/osaid400/Bank-Management-System) | Banking application supporting account management, deposits, withdrawals, and validation |
 | [ATM Management System](https://github.com/osaid400/ATM-Management-System) | PIN-based ATM simulation with secure transactions and session handling |
 | [Library Management System](https://github.com/osaid400/Library-Management-System) | Library management system for borrowing, returning, and tracking books |
-| [Employee Management System](https://github.com/osaid400/Employees-Managment-System) | Employee record management using CRUD operations and validation |
+| [Employee Management System](https://github.com/osaid400/Employees-Managment-System) | Console-based Employee Management System with OOP, password hashing, and login lockout.|
 | [Inventory Management System](https://github.com/osaid400/Inventory-Management-System) | Inventory and stock management with CRUD functionality |
 | [Expense Tracker System](https://github.com/osaid400/Expense-Tracker-System) | Personal expense tracking with expense analysis and persistent storage |
 | [Calculator Using OOP](https://github.com/osaid400/Calculator-System) | Object-Oriented calculator featuring JSON-based calculation history |
