@@ -4,7 +4,7 @@
 
 I'm a Computer Science undergraduate student passionate about Python, Software Development, Artificial Intelligence, and Data Science.
 
-I build practical, real-world console applications from the ground up — starting with plain functions, moving to Object-Oriented Programming, and now structuring every project into clean, modular Python packages. My goal is to keep closing the gap between "code that works" and "code that's actually well-engineered."
+I build practical, real-world console applications from the ground up starting with plain functions, moving to Object Oriented Programming, and now structuring every project into clean, modular Python packages. My goal is to keep closing the gap between "code that works" and "code that's actually well engineered."
 
 ---
 
